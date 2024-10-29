@@ -1,0 +1,16 @@
+{
+  "name": "Carcassonne Sandbox",
+  "short_name": "Carcassonne",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#293541",
+  "theme_color": "#eaeff4",
+  "orientation": "portrait"
+}
